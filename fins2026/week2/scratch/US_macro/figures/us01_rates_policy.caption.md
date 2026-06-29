@@ -1,0 +1,1 @@
+Figure 1. The federal funds rate, 3-month bill, 2-year, and 10-year Treasury yields (%). The 2015-18 liftoff, the 2020 zero-rate cut, and the 2022-23 tightening to a 5.33% peak are visible. Sample 2015-2025. Source: FRED (Federal Reserve Bank of St. Louis).

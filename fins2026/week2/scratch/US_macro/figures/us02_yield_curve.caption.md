@@ -1,0 +1,1 @@
+Figure 2. The 10-year minus 2-year Treasury spread (percentage points). Blue shading marks a normal upward curve, red marks inversion; the spread reached -1.08 pp in Jul 2023, the deepest of the period. Sample 2015-2025. Source: FRED (Federal Reserve Bank of St. Louis).

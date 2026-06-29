@@ -1,0 +1,1 @@
+Figure 4. Unemployment rate (%) against the federal funds rate (%), monthly, with points colored by date and joined in time order. The link is inverse within each expansion but the 2020 pandemic opens a wide loop, so it shifts rather than holding fixed. Sample 2015-2025. Source: FRED (Federal Reserve Bank of St. Louis).

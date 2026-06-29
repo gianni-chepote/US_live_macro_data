@@ -1,0 +1,1 @@
+Figure 3. Growth of $1 tracking the S&P 500 price index, compounding (1 + daily return) on a log scale. The worst peak-to-trough drawdown was -34% (Feb 2020 to Mar 2020, shaded). Sample 2015-2025. S&P 500 from Yahoo Finance (^GSPC).
