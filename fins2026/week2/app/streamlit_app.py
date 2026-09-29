@@ -74,6 +74,7 @@ def main() -> None:
         "Track U.S. rates, labour, activity, policy, volatility, and equity-market "
         "measures from a unified month-end panel built from public FRED data."
     )
+    st.markdown("By **Gianni Chepote** · [GitHub](https://github.com/gianni-chepote)")
 
     with st.sidebar:
         st.header("Controls")
